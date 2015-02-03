@@ -1,0 +1,6 @@
+Create third_party dir:
+  mkdir src/third_party
+
+Get ackermann messages:
+  cd src/third_party
+  git clone https://github.com/jack-oquin/ackermann_msgs.git
